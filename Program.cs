@@ -103,12 +103,4 @@ namespace Rectangles
 
     }
 
-    class Result
-    {
-        public bool isOverlaping { get; set; }
-        public string[] WidthIntersects { get; set; }
-        public string[] HeightIntersects { get; set; }
-    }
-
-
 }
